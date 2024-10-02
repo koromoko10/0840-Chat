@@ -1,0 +1,12 @@
+Turbowarp専用拡張機能
+Font Managerはオンライン上のサーバーからフォントを入れるときには使えるかも
+現状、オフラインでOKのハズ
+
+Fetchは今のところ用途なし。一番シンプルではある。
+
+Box 2Dは何かの小ネタで使えるかも
+Fileも。
+
+Local Strageは何か保存する内容などがあれば使うかも
+
+Numerical Encoding V2でクラウド変数にリストを送る
