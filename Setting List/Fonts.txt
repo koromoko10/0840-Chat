@@ -1,0 +1,21 @@
+追加フォント
+00 LINE Seed Thin (システム用)
+
+フォント選択用
+01 LINE Seed 
+02 けいフォント 
+03 力強く
+04 力弱く
+05 手書き雑
+06 S2Gメモ
+07 Game Cube
+08 Mario Kart DS
+09 Mario 64
+10 Minecraft
+11 Mario U
+12 nicomoji
+13 Paint ball
+14 Mario Maker
+15 Mario World
+16 Mario 64 title
+17 Walkman
