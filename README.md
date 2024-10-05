@@ -1,5 +1,5 @@
 # 0840-Chat
-<img src="https://github.com/koromoko10/0840-Chat/blob/main/assets/logo/0840%20Chat%20logo-high%5Byoko%5D.png?raw=true" title="logo" height="500px" weight="500px"><br>
+<img src="https://github.com/koromoko10/0840-Chat/blob/main/assets/logo/0840%20Chat%20logo-high%5Byoko%5D.png?raw=true" title="logo" width="500"><br>
 koromoko10が開発した全く新しいSNS。（？）<br>
  **悪口や暴言、誹謗中傷などはありません！** （というか分かりません！）<br>
 完全匿名で見てて疲れないSNSを目指しました。<br>
