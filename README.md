@@ -53,6 +53,7 @@ koromoko10が開発した全く新しいSNS。（？）<br>
 <br>
 
 詳しくは [LICENSE](https://github.com/koromoko10/0840-Chat/blob/main/LICENSE) をご覧ください。<br>
+その他のクレジットは [こちら](https://koromoko10.com/0840/credit.html) をご覧ください。<br>
 
 
 ## 最後に 
