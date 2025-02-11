@@ -7,8 +7,29 @@ koromoko10が開発した全く新しいSNS。（？）<br>
  **悪口や暴言、誹謗中傷などはありません！** （というか分かりません！）<br>
 完全匿名で見てて疲れないゆる～い繋がりができるSNSを目指しました。<br>
 
-## リンク
-**[0840-Chatはこちら!](https://koromoko10.github.io/0840/)**
+## 0840 Chatを始める
+### Web版( Stable )
+**[0840 Chat Web版はこちら!](https://koromoko10.github.io/0840/)**
+### Desktop版
+#### Stable
+| プラットフォーム | [V1.1.1](https://github.com/koromoko10/0840-Chat/releases/tag/V1.1.1) | [V1.1.0](https://github.com/koromoko10/0840-Chat/blob/main/V1.1.0/README.md) | [V1.0.1](https://github.com/koromoko10/0840-Chat/blob/main/V1.0.1/README.md) | [V1.0.0](https://github.com/koromoko10/0840-Chat/tree/main/V1.0.0) |
+|:---|:---|:---|:---|:---|
+| Windows (ポータブル版) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Win_0840.Chat.V.1.1.1.zip) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Win_0840.Chat.V.1.1.0.zip) | N/A | N/A |
+| Windows (インストーラー版) | [.exe](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Win_0840.Chat.V.1.1.1.Setup.exe) | [.exe](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Win_0840.Chat.V.1.1.0.Setup.exe) | N/A | N/A |
+| Windows ARM (ポータブル版) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Win-ARM_0840.Chat.V.1.1.1.zip) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Win-ARM_0840.Chat.V.1.1.0.zip) | N/A | N/A |
+| Windows ARM (インストーラー版) | [.exe](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Win-ARM_0840.Chat.V.1.1.1.Setup.exe) | [.exe](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Win-ARM_0840.Chat.V.1.1.0.Setup.exe) | N/A | N/A |
+| Mac | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Mac_0840.Chat.V.1.1.1.zip) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Mac_0840.Chat.V.1.1.0.zip) | N/A | N/A |
+| Linux | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Lin_0840.Chat.V.1.1.1.zip) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Lin_0840.Chat.V.1.1.0.zip) | N/A | N/A |
+| Linux ARM [^1] | N/A | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Lin-ARM_0840.Chat.V.1.1.0.zip) | N/A | N/A |
+
+[^1]: LinuxのARM版の提供はV1.1.1で終了しました(組み込みOS用)
+
+#### PB( Public Beta )
+| プラットフォーム |
+|:---|
+| Windows (ポータブル版) |
+| Windows (インストーラー版) |
+
 
 ## 他のSNSと違うところ
 * 完全匿名性です。面倒なアカウント作成は必要ありません！誰が何を投稿したかもわかりません！
