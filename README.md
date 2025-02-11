@@ -1,5 +1,5 @@
 # 0840-Chat
-<img src="https://github.com/koromoko10/0840-Chat/blob/main/assets/logo/0840%20Chat%20logo-high%5Byoko%5D.png?raw=true" title="logo" width="500"><br>
+<img src="https://github.com/koromoko10/0840-Chat/blob/main/assets/logo/0840%20Chat%20logo-high.png?raw=true" title="logo" width="500"><br>
 
 https://github.com/user-attachments/assets/32a39eea-d9e9-469c-b43c-bdc74031bde6 
 
