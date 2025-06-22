@@ -8,28 +8,17 @@ koromoko10が開発した全く新しいSNS。（？）<br>
 完全匿名で見てて疲れないゆる～い繋がりができるSNSを目指しました。<br>
 
 ## 0840 Chatを始める
-### Web版( Stable )
+### Web版
 **[0840 Chat Web版はこちら!](https://koromoko10.github.io/0840/)**
 ### Desktop版
-#### Stable
 | プラットフォーム | [V1.1.2](https://github.com/koromoko10/0840-Chat/releases/tag/V1.1.2) | [V1.1.1](https://github.com/koromoko10/0840-Chat/releases/tag/V1.1.1) | [V1.1.0](https://github.com/koromoko10/0840-Chat/blob/main/V1.1.0/README.md) | [V1.0.1](https://github.com/koromoko10/0840-Chat/blob/main/V1.0.1/README.md) | [V1.0.0](https://github.com/koromoko10/0840-Chat/tree/main/V1.0.0) |
 |:---|:---|:---|:---|:---|:---|
-| Windows (ポータブル版) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.2/Win_0840.Chat.V1.1.2.zip) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Win_0840.Chat.V.1.1.1.zip) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Win_0840.Chat.V.1.1.0.zip) | N/A | N/A |
-| Windows (インストーラー版) | [.exe](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.2/Win_0840.Chat.V1.1.2.Setup.exe) | [.exe](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Win_0840.Chat.V.1.1.1.Setup.exe) | [.exe](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Win_0840.Chat.V.1.1.0.Setup.exe) | N/A | N/A |
-| Windows ARM (ポータブル版) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.2/Win-ARM_0840.Chat.V.1.1.2.zip) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Win-ARM_0840.Chat.V.1.1.1.zip) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Win-ARM_0840.Chat.V.1.1.0.zip) | N/A | N/A |
-| Windows ARM (インストーラー版) | [.exe](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.2/Win-ARM_0840.Chat.V.1.1.2.Setup.exe) | [.exe](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Win-ARM_0840.Chat.V.1.1.1.Setup.exe) | [.exe](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Win-ARM_0840.Chat.V.1.1.0.Setup.exe) | N/A | N/A |
-| Mac | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.2/Mac_0840.Chat.V.1.1.2.zip) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Mac_0840.Chat.V.1.1.1.zip) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Mac_0840.Chat.V.1.1.0.zip) | N/A | N/A |
-| Linux | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.2/Lin_0840.Chat.V1.1.2.zip) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Lin_0840.Chat.V.1.1.1.zip) | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Lin_0840.Chat.V.1.1.0.zip) | N/A | N/A |
-| Linux ARM [^1] | N/A | N/A | [.zip](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Lin-ARM_0840.Chat.V.1.1.0.zip) | N/A | N/A |
+| Windows | [ポータブル](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.2/Win_0840.Chat.V1.1.2.zip) [インストーラー](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.2/Win_0840.Chat.V1.1.2.Setup.exe) | [ポータブル](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Win_0840.Chat.V.1.1.1.zip) [インストーラー](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Win_0840.Chat.V.1.1.1.Setup.exe) | [ポータブル](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Win_0840.Chat.V.1.1.0.zip) [インストーラー](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Win_0840.Chat.V.1.1.0.Setup.exe) | N/A | N/A |
+| Windows (ARM版) | [ポータブル](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.2/Win-ARM_0840.Chat.V.1.1.2.zip) [インストーラー](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.2/Win-ARM_0840.Chat.V.1.1.2.Setup.exe) | [ポータブル](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Win-ARM_0840.Chat.V.1.1.1.zip) [インストーラー](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Win-ARM_0840.Chat.V.1.1.1.Setup.exe) | [ポータブル](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Win-ARM_0840.Chat.V.1.1.0.zip) [インストーラー](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Win-ARM_0840.Chat.V.1.1.0.Setup.exe) | N/A | N/A |
+| Mac | [ポータブル](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.2/Mac_0840.Chat.V.1.1.2.zip) | [ポータブル](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Mac_0840.Chat.V.1.1.1.zip) | [ポータブル](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Mac_0840.Chat.V.1.1.0.zip) | N/A | N/A |
+| Linux [^1] | [ポータブル](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.2/Lin_0840.Chat.V1.1.2.zip) | [ポータブル](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.1/Lin_0840.Chat.V.1.1.1.zip) | [ポータブル](https://github.com/koromoko10/0840-Chat/releases/download/V1.1.0/Lin_0840.Chat.V.1.1.0.zip) | N/A | N/A |
 
-[^1]: LinuxのARM版の提供はV1.1.1で終了しました(組み込みOS用)
-
-#### PB( Public Beta )
-| プラットフォーム |
-|:---|
-| Windows (ポータブル版) |
-| Windows (インストーラー版) |
-
+[^1]: ChromeOSで使用する場合はLinux版をダウンロードしてください。
 
 ## 他のSNSと違うところ
 * 完全匿名性です。面倒なアカウント作成は必要ありません！誰が何を投稿したかもわかりません！
@@ -38,7 +27,7 @@ koromoko10が開発した全く新しいSNS。（？）<br>
 * ま、どちらかというとSNSというよりかはチャットシステムみたいな感じです
 
 ## 使い方等
-0840 Chat の使いかtなどはこちらの[Wiki](https://github.com/koromoko10/0840-Chat/wiki)にまとめています
+0840 Chatの使い方などはこちらの **[Wiki](https://github.com/koromoko10/0840-Chat/wiki)** にまとめています
 
 ## このWebシステムを作ろうとしたきっかけ
 元々、**Twitter**(自称X)が多くの変更がされていたとき、いろんなSNSが出てきていました。<br>
