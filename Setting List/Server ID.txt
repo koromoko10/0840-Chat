@@ -1,4 +1,3 @@
-[Stable版]
 Server
      wss://clouddata.turbowarp.org
 Project ID
@@ -9,15 +8,5 @@ Package Name
 Package Zip Name
      (Win・Mac・Lin)(-32・64)(-ARM)_0840 Chat Vx.y.z (Setup)
 (bitは基本的に64bit版のみなので、書く必要なし)
-
-[PB版]
-Server
-     wss://clouddata.turbowarp.org
-Project ID
-     koromoko10@0840-Chat.x.y.PB
-(x.yはバージョン名。zは入れない)
-Package Name
-     0840 Chat-PB
-Package Zip Name
-     (Win・Mac・Lin)(-32・64)(-ARM)_0840 Chat Vx.y.z.PB (Setup)
-(bitは基本的に64bit版のみなので、書く必要なし)
+Local Storage 名前空間
+     koromoko10@0840-Chat.x.y
